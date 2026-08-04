@@ -26,3 +26,17 @@ BigQuery Silver / cleaned layer → Gold / analytics layer
                   ├── Dashboard
                   ├── Alerts
                   └── Documentation
+---
+## Technologies
+
+- BigQuery
+- Python
+- SQL
+- dbt Core
+- GitHub Actions
+- Looker Studio
+- Docker
+
+## Status
+
+In progress — repository setup.
